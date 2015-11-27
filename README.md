@@ -5,3 +5,4 @@ Getting started
 ---------------
 
 * `npm install`
+* `npm run browserify`
