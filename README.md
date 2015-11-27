@@ -6,5 +6,6 @@ Following the [React getting started example](https://facebook.github.io/react/d
 Getting started
 ---------------
 
-* `npm install`
-* `npm run browserify`
+1. `npm install`
+2. `npm run browserify`
+3. Open [helloworld.html](helloworld.html) in a browser
